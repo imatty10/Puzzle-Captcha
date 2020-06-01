@@ -19,7 +19,7 @@
         offset: 5,      
         loadingText: 'Slide the Puzzle...',
         failedText: 'Try again',
-        barText: 'Slide the Puzzle ... Matty',
+        barText: 'Slide the Verify ... Matty',
         repeatIcon: 'fa fa-repeat',
         maxLoadCount: 3,
         localImages: function () {
